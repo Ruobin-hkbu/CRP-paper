@@ -1,0 +1,2 @@
+session_id,turn_id,human_prompt,ai_response,human_revision,final_poem_excerpt
+S01,S01_T01,"Write a short poem about rain in a fragmented style.","Rain gathers on the silent window...",,

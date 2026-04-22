@@ -1,0 +1,12 @@
+{
+  "total_turns": 4,
+  "interaction_counts": {
+    "Exemplar-led": 3,
+    "Negotiation-oriented": 1
+  },
+  "feature_by_interaction_ai": {},
+  "feature_by_interaction_human": {},
+  "rating_warnings": [],
+  "difficult_to_elicit_candidate_count": 0,
+  "critical_relational_case_count": 0
+}

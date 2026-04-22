@@ -1,0 +1,8 @@
+session_id,utterance_id,speaker,text,final_poem_excerpt
+S01,S01_U01,human,"Write a short poem about rain in a fragmented style.",
+S01,S01_U02,ai,"Rain gathers on the silent window, soft and endless...",
+S01,S01_U03,human,"Can you make it more fragmented? Remove complete sentences.",
+S01,S01_U04,ai,"Rain— / window. / Endless.",
+S01,S01_U05,human,"Still too polished. Needs broken syntax.",
+S01,S01_U06,ai,"Rain— / not window. / Not yet.",
+S01,S01_U07,human,"[final poem draft here]","Rain— / not window. / Not yet."

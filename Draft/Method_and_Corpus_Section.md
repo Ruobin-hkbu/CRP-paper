@@ -55,3 +55,129 @@ Informed by this rationale, a stylistic feature in this study is operationalized
 Analysis proceeds through close qualitative reading of transcript records assigned session IDs (`S01`, `S02`, etc.) and turn IDs (`S01_T01`, `S01_T02`, etc.). For each session, the study traces when and how participants encounter recurring AI patterns, how they respond to those patterns (accepting, modifying, rejecting, or redirecting), and whether they develop explicit awareness of the model's stylistic tendencies.
 
 Findings are presented through detailed analysis of 3–5 representative session trajectories that illustrate (1) how AI defaults shape the option space before explicit evaluation, (2) how negotiation-oriented interaction may or may not generate critical recognition, and (3) moments when writers explicitly identify and contest administered patterns. By grounding claims in specific dialogue sequences and comparing patterns across sessions, the analysis demonstrates how AI co-creation structures stylistic choice without overextending claims beyond the corpus itself.
+
+## IV.6 Specific Coding Plan for Data Analysis
+
+To implement the analytic framework above in a replicable way, coding will proceed in four linked parts. The workflow is sequential, but coders may return to earlier parts when later evidence requires refinement.
+
+### Part 1. Identify Interaction Types and Sort Turns Into Categories
+
+**Unit of coding.** The primary unit is the turn pair (human request plus immediate AI response), with follow-up human revision notes attached as contextual evidence.
+
+**Step 1: Prepare transcript units.**
+
+1. Segment each session into turn pairs and assign IDs (`S01_T01`, `S01_T02`, etc.).
+2. Preserve the original wording of prompts, AI outputs, and visible human edits.
+3. Add a short memo (1-2 lines) describing what the human appears to be doing in that turn.
+
+**Step 2: Apply interaction-category decision rules.**
+
+- Code as **Exemplar-led** when the AI output is treated as a ready-made option and the human accepts it with minimal local adjustment, or moves to a new prompt without substantial revision dialogue.
+- Code as **Negotiation-oriented** when the human requests revision, specifies dissatisfaction, imposes new constraints, or iteratively reshapes the same output trajectory across turns.
+- If a turn contains both functions, assign the **dominant** function and add an ambiguity memo explaining why.
+
+**Step 3: Record coding evidence.**
+
+For each coded turn, record:
+
+1. Category label (`Exemplar-led` or `Negotiation-oriented`).
+2. Evidence quote from the human prompt and/or AI response.
+3. Brief rationale (one sentence) tied to the operational definition.
+
+### Part 2. Track Stylistic Features Within Categories (Present/Partial/Absent)
+
+After interaction coding, each turn is coded for the seven stylistic features listed in IV.3.
+
+**Step 1: Feature-by-turn coding matrix.**
+
+Build a matrix where rows are turn IDs and columns include:
+
+1. Interaction category (from Part 1).
+2. Seven stylistic features.
+3. Rating for each feature: `Present`, `Partial`, or `Absent`.
+4. Evidence note (short quote or description).
+
+**Step 2: Apply consistent rating rules.**
+
+- **Present:** clear and sustained realization of the feature in the AI output or revised human text.
+- **Partial:** feature appears weakly, locally, or only after explicit prompting pressure.
+- **Absent:** feature not realized despite request, attempt, or opportunity.
+
+**Step 3: Compare by interaction category.**
+
+Within each session, compare feature profiles across `Exemplar-led` and `Negotiation-oriented` turns to identify:
+
+1. Features frequently stabilized by AI defaults.
+2. Features that improve only under negotiation.
+3. Features that remain mostly absent in both categories.
+
+### Part 3. Case Analysis of "Difficult to Elicit"
+
+This part focuses on failed or only partially successful attempts to obtain target stylistic features despite sustained effort.
+
+**Step 1: Select candidate episodes.**
+
+Mark an episode as a candidate when all of the following are visible:
+
+1. The human explicitly names a stylistic goal.
+2. The human makes substantively varied attempts (rephrasing, reframing, examples, or stronger constraints).
+3. The output remains absent or only partial for the target feature.
+
+**Step 2: Reconstruct conversation flow in detail.**
+
+For each selected episode, produce a micro-timeline:
+
+1. Initial request and target feature.
+2. Sequence of prompt adjustments by the human.
+3. AI response pattern at each step.
+4. Final outcome in the poem draft.
+
+**Step 3: Interpret why elicitation remained difficult.**
+
+Use close reading to identify whether difficulty appears linked to:
+
+1. AI drift back to fluent/default lyric form.
+2. Weak compliance with unconventional constraints.
+3. Local compliance without global structural change.
+
+Each case write-up should include direct transcript excerpts and a short analytic claim limited to that episode.
+
+### Part 4. Case Analysis of Possible Critical-Relational Stance
+
+This part identifies moments where participants move beyond revision toward explicit critique of model defaults.
+
+**Step 1: Identify critical-relational indicators.**
+
+Flag episodes where the human does one or more of the following:
+
+1. Names a recurring AI pattern as formulaic, generic, or predictable.
+2. Rejects an output because it reflects "typical AI" style rather than the writer's intent.
+3. Introduces an alternative stylistic principle not offered by the AI.
+
+**Step 2: Conduct focused case reading.**
+
+For each flagged case, analyze:
+
+1. Trigger: what prompted recognition of the pattern.
+2. Articulation: how the participant verbally frames the critique.
+3. Action: whether the participant redirects prompts, rewrites independently, or sets anti-default constraints.
+4. Consequence: how final text choices differ from prior AI-led trajectories.
+
+**Step 3: Classify stance strength (possible, developing, explicit).**
+
+- **Possible:** implicit resistance with limited metalinguistic naming.
+- **Developing:** intermittent naming of AI defaults and partial strategic redirection.
+- **Explicit:** clear, sustained critique of AI patterning plus deliberate stylistic counter-moves.
+
+This classification is interpretive and should be justified with transcript evidence rather than inferred from final poem quality alone.
+
+### Coding Outputs and Audit Trail
+
+To ensure transparency, each session will produce four linked outputs:
+
+1. Turn-category sheet (Part 1).
+2. Feature matrix with `Present/Partial/Absent` ratings (Part 2).
+3. Difficult-to-elicit case memo(s) with conversation timelines (Part 3).
+4. Critical-relational case memo(s) with stance-strength classification (Part 4).
+
+All coding changes should be logged with date, coder initials, and a one-line reason for recoding decisions.
